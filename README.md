@@ -1,6 +1,6 @@
 # Stochastic DDP
 
-This project was conducted within the Seminar Learning, Control and Identification Algorithms during the summer semester of 2023 at the Chair of Intelligent Control Systems, RWTH (Rheinisch-Westfälische Technische Hochschule).
+This project was conducted for the Seminar Learning, Control and Identification Algorithms during the summer semester of 2023 at the Chair of Intelligent Control Systems, RWTH (Rheinisch-Westfälische Technische Hochschule).
 The seminar focused on *Stochastic Differential Dynamic Programming* (SDDP) based on the paper by Theodorou et al. [1]. The proposed algorithm was implemeneted in MATLAB. Implementational issues such as line-search and regularization are explored. The algorithm is demonstrated on three models with varying degrees of complexity,
 including a 7-DOF parafoil homing trajectory optimization problem. 
 
