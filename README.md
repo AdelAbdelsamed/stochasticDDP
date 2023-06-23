@@ -42,6 +42,9 @@ This file contains a implementation of the backward pass used only in SDDP3.mat.
 
 This directory contains the simulation models. Each model is saved as a separate file, which inherits from the abstract class Dynamics. Each model has its corresponding main file that runs the optimization and plots the results.
 
+#### `HelperFunctions/`
+
+This directory contains the helper functions used to generate the structure of the optimal solution and to simulate the dynamics with arbitrary control inputs.
 
 ## Usage
 
